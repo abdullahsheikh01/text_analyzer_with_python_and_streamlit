@@ -9,7 +9,9 @@ This is a simple web application built with python and  Streamlit that allows yo
 * **Word Replacement:** Easily replace one word with another throughout your text.
 
 ## How to Use
-
+1. **Open Game**:
+Open game by this deployed web app link:
+https://python-text-analyzer-6601.streamlit.app/
 1.  **Enter Your Text:** Type or paste your paragraph into the text area labeled "Write Your Paragraph Here."
 2.  **Count Characters and Words:** Click the "Count" button to see the number of characters and words in your text.
 3.  **Check Word Occurrence:**
@@ -40,5 +42,8 @@ This application was created by [Abdullah Shaikh](https://www.linkedin.com/in/ab
     * replace word: "sample"
     * with: "test"
     * result: "This is a test paragraph. This paragraph has some word that repeat."
+
+## Deployment link:
+https://python-text-analyzer-6601.streamlit.app/
 
 Enjoy using the Text Analyzer!
